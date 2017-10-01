@@ -1,6 +1,6 @@
 # Data-Mining
 Working on data sets and performing different data mining techniques
-Programming : Python
+# Programming : Python
 
 1. Normalization 
 2. Principal Component Analysis
